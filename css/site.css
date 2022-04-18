@@ -1,3 +1,27 @@
 #headshot {
   width: 200px;
 }
+h1 {
+  color: green;
+  size: 30px;
+  margin: 20px;
+}
+
+p {
+  font-family: fantasy;
+  text-indent: 15px;
+  margin: 20px;
+}
+
+img {
+  margin: 20px;
+  width: 550px;
+}
+
+#content {
+  background-color: #ADD8E6;
+  width: 600px;
+  padding: 15px;
+  border: solid 3px black;
+
+}
