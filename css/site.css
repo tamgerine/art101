@@ -16,12 +16,16 @@ img {
   width: 400px;
   float: right;
 }
-.content {
+#content {
   background-color: #ADD8E6;
   width: 800px;
   padding: 15px;
   border: solid 3px black;
 }
 body {
+  margin: 20px;
+}
+.output {
+  font-family: fantasy;
   margin: 20px;
 }
