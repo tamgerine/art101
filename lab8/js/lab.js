@@ -25,5 +25,5 @@ var result = array.map(function(x) {
 //should return the squareroot of the array
 console.log("squareroot of array", result);
 
-var mapResults = "Original array:" + array + ",</br> Square of array:" + array.map(square) + ",</br> Squareroot of array:" + result;
+var mapResults = "Original array:" + array + ",</br> Square of array:" + array.map(square) + "</br>, Squareroot of array:" + result;
 console.log(mapResults);

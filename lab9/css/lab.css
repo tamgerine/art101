@@ -1,0 +1,29 @@
+h1, h2, h3 {
+    color: black;
+    font-family: sans-serif;
+    font-size: 150%;
+}
+
+p {
+  font-family: monospace;
+  font-size: 100%;
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#content {
+    background-color: #6471cf;
+    width: rgba(255, 0, 0, 0.5) ;px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px #;
+    font-size: 20px;
+}
+#lab9summary {
+    background-color: #6471cf;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px #;
+    font-size: 20px;
+  }
