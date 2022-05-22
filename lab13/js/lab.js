@@ -7,7 +7,7 @@ function fizzBuzzBoom(loops,factor1,factor2,factor3,factor4,string1,string2,stri
   //typecasting number of loops cause js is weird
   var iterations =Number(loops);
   iterations+=1;
-  //foor loop checking and appending and printing
+  //foor loop checking and appending and print
   for (var i = 1; i < iterations; i++) {
     var str="";
     if((i%factor1)==0){
